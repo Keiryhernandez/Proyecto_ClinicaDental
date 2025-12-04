@@ -1,0 +1,12 @@
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\Clinica Dental.csproj.AssemblyReference.cache
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\ClinicaDentalApp.Forms.LoginForm.resources
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\ClinicaDentalApp.Forms.MainForm.resources
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\Clinica_Dental.Properties.Resources.resources
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\Clinica Dental.csproj.GenerateResource.cache
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\Clinica Dental.csproj.CoreCompileInputs.cache
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\bin\Debug\Clinica Dental.exe.config
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\bin\Debug\Clinica Dental.exe
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\bin\Debug\Clinica Dental.pdb
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\Clinica Dental.exe
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\Clinica Dental.pdb
+C:\Users\visra\OneDrive\Escritorio\Clinica Dental\obj\Debug\Clinica Dental.exe.config
