@@ -1,6 +1,0 @@
-C:\Users\visra\Downloads\Proyecto_ClinicaDental-main\Proyecto_ClinicaDental-main\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.AssemblyReference.cache
-C:\Users\visra\Downloads\Proyecto_ClinicaDental-main\Proyecto_ClinicaDental-main\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Forms.LoginForm.resources
-C:\Users\visra\Downloads\Proyecto_ClinicaDental-main\Proyecto_ClinicaDental-main\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Properties.Resources.resources
-C:\Users\visra\Downloads\Proyecto_ClinicaDental-main\Proyecto_ClinicaDental-main\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.Forms.MainForm.resources
-C:\Users\visra\Downloads\Proyecto_ClinicaDental-main\Proyecto_ClinicaDental-main\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.GenerateResource.cache
-C:\Users\visra\Downloads\Proyecto_ClinicaDental-main\Proyecto_ClinicaDental-main\Proyecto_Clinica\obj\Debug\Proyecto_Clinica.csproj.CoreCompileInputs.cache
